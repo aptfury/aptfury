@@ -3,7 +3,7 @@ ABOUT ME
 --->
 <b>ABOUT ME</b>
 
-Hi, I'm a Blake!
+Hi, I'm a Blake! <i>(he/they)</i>
 
 A few things you might want to know about me: I'm a disabled, queer developer and, as such, an advocate for workplace diversity, disability, and LGBTQ+ communities. My biggest loves are music, almost anything horror, anime, animation, and coding. There's few things that can cheer me up quite like a mug of hot tea and a cheesy horror movie with friends.
 
