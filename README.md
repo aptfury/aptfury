@@ -3,7 +3,7 @@ ABOUT ME
 --->
 # About Me
 
-Hi, I'm Blake! <i>(he/they)</i>
+Hi, I'm AptFury! <i>(he/they)</i>
 
 A few things you might want to know about me: I'm a disabled, queer developer and, as such, an advocate for workplace diversity, disability, and LGBTQ+ communities. My biggest loves are music, almost anything horror, anime, animation, and coding. There's few things that can cheer me up quite like a mug of hot tea and a cheesy horror movie with friends.
 
@@ -45,6 +45,4 @@ CONTACT ME
 
 If you're interested in contacting me for work opportunites, open source projects, coffee chats, etc. please feel free to use the information below to reach out! Please be aware that I can take some time getting back to people between my health, energy levels, and other goings on, but I will try and get back to you as soon as I can!
 
-<b>Twitter:</b> <i>@AptFury</i><br>
-<b>Email:</b> <i>blake.lemarr@outlook.com</i><br>
 <b>Portfolio:</b> <i>WIP - Coming Soon!</i><br>
